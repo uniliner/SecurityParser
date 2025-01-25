@@ -1,0 +1,60 @@
+{
+  "scan_time": "2025-01-25T17:16:01.601488",
+  "repository": "micrometer-metrics/micrometer",
+  "total_findings": 2,
+  "findings_by_severity": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 2,
+    "LOW": 0
+  },
+  "findings": {
+    "CRITICAL": [],
+    "HIGH": [],
+    "MEDIUM": [
+      {
+        "file": "samples/micrometer-samples-boot2-reactive/src/main/resources/application.yml",
+        "matches": [
+          {
+            "category": "database",
+            "severity": "MEDIUM",
+            "matched_pattern": "application\\.(properties|ya?ml)"
+          }
+        ],
+        "context": {
+          "parent_directory": "samples\\micrometer-samples-boot2-reactive\\src\\main\\resources",
+          "path_parts": [
+            "samples",
+            "micrometer-samples-boot2-reactive",
+            "src",
+            "main",
+            "resources",
+            "application.yml"
+          ]
+        }
+      },
+      {
+        "file": "samples/micrometer-samples-boot2/src/main/resources/application.yml",
+        "matches": [
+          {
+            "category": "database",
+            "severity": "MEDIUM",
+            "matched_pattern": "application\\.(properties|ya?ml)"
+          }
+        ],
+        "context": {
+          "parent_directory": "samples\\micrometer-samples-boot2\\src\\main\\resources",
+          "path_parts": [
+            "samples",
+            "micrometer-samples-boot2",
+            "src",
+            "main",
+            "resources",
+            "application.yml"
+          ]
+        }
+      }
+    ],
+    "LOW": []
+  }
+}

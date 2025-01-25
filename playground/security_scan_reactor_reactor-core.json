@@ -1,0 +1,17 @@
+{
+  "scan_time": "2025-01-25T17:05:32.792643",
+  "repository": "reactor/reactor-core",
+  "total_findings": 0,
+  "findings_by_severity": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0
+  },
+  "findings": {
+    "CRITICAL": [],
+    "HIGH": [],
+    "MEDIUM": [],
+    "LOW": []
+  }
+}

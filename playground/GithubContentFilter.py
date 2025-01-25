@@ -1,7 +1,7 @@
 import fnmatch
 import re
 
-class v:
+class GithubContentFilter:
     def __init__(self, security_analyzer):
         self.security_analyzer = security_analyzer
 
@@ -52,7 +52,7 @@ class v:
         }
         
         for item in github_contents:
-            file_path = item.get('path', '')
+            file_path = item
             
             # Check critical patterns
             critical_matches = self._match_patterns(file_path, self.security_analyzer.critical_patterns)

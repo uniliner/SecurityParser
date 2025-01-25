@@ -2,9 +2,9 @@ import requests
 import os
 from dotenv import load_dotenv
 
-import SpringSecurityAnalyzer
+from SpringSecurityAnalyzer import SpringSecurityAnalyzer
 
-def list_github_repo_contents(owner, repo, token):
+def list_github_repo_contents(owner, repo, branch, token):
     """
     List all file and directory paths in a GitHub repository.
     
@@ -18,7 +18,7 @@ def list_github_repo_contents(owner, repo, token):
     """
     
     # Base GitHub API URL
-    base_url = f"https://api.github.com/repos/{owner}/{repo}/git/trees/main?recursive=1"
+    base_url = f"https://api.github.com/repos/{owner}/{repo}/git/trees/{branch}?recursive=1"
     
     # Headers for authentication and API version
     headers = {
@@ -34,10 +34,9 @@ def list_github_repo_contents(owner, repo, token):
         contents = response.json()
         
         # Extract paths from the tree
-        all_paths = [item['path'] for item in contents.get('tree', [])]
-        
-        # Sort paths for consistent output
-        return sorted(all_paths)
+        all_paths = [{'path': item['path'], 'size': item.get('size', None)} for item in contents.get('tree', [])]
+
+        return all_paths
     
     except requests.exceptions.RequestException as e:
         print(f"Error fetching repository contents: {e}")
@@ -45,19 +44,35 @@ def list_github_repo_contents(owner, repo, token):
 
 def main():
     # Example usage
-    owner = 'micrometer-metrics'
-    repo = 'micrometer'
+    owner = 'projectlombok'
+    repo = 'lombok'
+    branch = 'master'
     
     load_dotenv()
 
-    paths = list_github_repo_contents(owner, repo, os.getenv('GITHUB_TOKEN'))
+    paths = list_github_repo_contents(owner, repo, branch, os.getenv('GITHUB_TOKEN'))
     
-    security_analyzer = SpringSecurityAnalyzer()
-    github_content_filter = GitHubContentFilter(security_analyzer)
+    analyzed = SpringSecurityAnalyzer().analyze(paths)
 
-    # Print all paths
-    for path in paths:
-        print(path)
+    # Print results
+    print(f"Total repository paths: {len(paths)}")
+    
+    print("\n=== Critical Risk Paths ===")
+    for item in analyzed['critical_matches']:
+        print(f"{item[0]} ({item[1]})")
+    
+    print("\n=== High Risk Paths ===")
+    for item in analyzed['high_risk_matches']:
+        print(f"{item[0]} ({item[1]})")
+    
+    print("\n=== Contextual Paths ===")
+    for item in analyzed['contextual_matches']:
+        print(f"{item[0]} ({item[1]})")
+    
+    # Summary statistics
+    print(f"\nCritical Matches: {len(analyzed['critical_matches'])}")
+    print(f"High Risk Matches: {len(analyzed['high_risk_matches'])}")
+    print(f"Contextual Matches: {len(analyzed['contextual_matches'])}")
 
 if __name__ == '__main__':
     main()

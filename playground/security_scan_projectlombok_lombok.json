@@ -1,0 +1,35 @@
+{
+  "scan_time": "2025-01-25T17:07:57.873396",
+  "repository": "projectlombok/lombok",
+  "total_findings": 1,
+  "findings_by_severity": {
+    "CRITICAL": 1,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0
+  },
+  "findings": {
+    "CRITICAL": [
+      {
+        "file": "buildScripts/lombok.jks",
+        "matches": [
+          {
+            "category": "keys_certs",
+            "severity": "CRITICAL",
+            "matched_pattern": ".*\\.(jks|keystore|truststore|key|pem|crt|cer|p12)$"
+          }
+        ],
+        "context": {
+          "parent_directory": "buildScripts",
+          "path_parts": [
+            "buildScripts",
+            "lombok.jks"
+          ]
+        }
+      }
+    ],
+    "HIGH": [],
+    "MEDIUM": [],
+    "LOW": []
+  }
+}
