@@ -1,0 +1,9 @@
+Please categorize the pull request into exactly one of these 3 possibilities:
+- Positive (pull request has clear security related changes to endpoints)
+- Negative (pull request does not have any security related changes to endpoints)
+- Neutral (unclear if endpoint changes are related to security issues)
+
+Rules:
+1. Only return one of these three words
+2. No explanation needed
+3. Be case-sensitive in your response

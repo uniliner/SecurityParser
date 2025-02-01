@@ -1,0 +1,98 @@
+Search Strategy 1: Keyword-Based PR Title Search
+identify security related PR titles. Some effective examples would be:
+```
+"auth" in:title
+"authentication" in:title
+"oauth" in:title
+"jwt" in:title
+```
+Search Strategy 2: File-Based Changes
+We can look for PRs that modify authentication-related files. examples of possibly related files:
+```
+path:**/SecurityConfig.java
+path:**/WebSecurityConfig.java
+path:**/AuthenticationProvider.java
+```
+Search Strategy 3: Commit Message Analysis
+Look for PRs with authentication-related commit messages. for example:
+```
+"implement authentication"
+"fix authentication"
+"update auth"
+```
+
+
+Let me break down the common naming patterns and paths where endpoints are typically found in Spring projects:
+Common File/Class Name Patterns:
+1. Controller Layer:
+```
+*Controller.java
+*Resource.java
+*Api.java
+*Endpoint.java
+*Rest.java
+*Handler.java
+*RestController.java
+*ApiController.java
+```
+2. Common Package Names:
+```
+/controller(s)
+/web
+/rest
+/api
+/endpoint(s)
+/http
+/resource(s)
+/interface(s)
+/presentation
+/entrypoint(s)
+```
+3. Common Path Structures:
+```
+src/main/java/com/company/project/controller/
+src/main/java/com/company/project/web/
+src/main/java/com/company/project/api/v1/
+src/main/java/com/company/project/rest/
+```
+4. Configuration Files (that might define endpoints):
+```
+src/main/java/com/company/project/config/WebConfig.java
+src/main/java/com/company/project/config/RouterConfig.java
+src/main/java/com/company/project/config/WebMvcConfig.java
+src/main/resources/application.yml (or .properties)
+src/main/resources/routes.xml
+```
+5. Functional Endpoints (modern Spring):
+```
+src/main/java/com/company/project/router/
+src/main/java/com/company/project/handler/
+src/main/java/com/company/project/routes/
+src/main/java/com/company/project/function/
+```
+Common Base URL Patterns in the code:
+```
+/api/*
+/api/v1/*
+/api/v2/*
+/rest/*
+/public/*
+/public/api/*
+/services/*
+/external/*
+/internal/*
+/actuator/*
+/management/*
+/open/*
+/secure/*
+```
+Files to specifically exclude:
+```
+*/test/*
+*/integration/*
+*Test.java
+*IT.java
+*IntegrationTest.java
+*TestController.java
+*Mock*.java
+```
