@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import anthropic
 from anthropic.types.message import Message
 
-client = anthropic.Anthropic(api_key="")
+client = anthropic.Anthropic(api_key=os.getenv('ANTHROPIC_KEY'))
 
 def load_content(path):
     with open(path, "r", encoding="utf-8") as content:
