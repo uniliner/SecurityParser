@@ -13,7 +13,14 @@ class Context:
         self.repo_name = repo_name
         self.token = token
 
-def fetch(context, endpoint):
+def __get_cached_file(repo_owner, repo_name):
+    filename = f'cache/{repo_owner}_{repo_name}_prs.json'
+
+    if os.path.exists(filename):
+        with open(filename) as json_data:
+            return json.load(json_data)
+
+def __fetch(context, endpoint):
     base = "https://api.github.com/repos/"
 
     headers = {
@@ -30,22 +37,28 @@ def fetch(context, endpoint):
     response.raise_for_status()  # Raises an HTTPError for bad responses
     return response.json()
 
-
-def fetch_pr(repo_owner, repo_name):
-    filename = f'cache/{repo_owner}_{repo_name}_prs.json'
-
-    if os.path.exists(filename):
-        with open(filename) as json_data:
-            prs = json.load(json_data)
-    else:
+def fetch_pr(repo_owner, repo_name, pr_number):
+    prs = __get_cached_file(repo_owner, repo_name)
+    if not prs:
+        prs = fetch_prs(repo_owner, repo_name)
+    
+    filtered = [pr for pr in prs if pr['PR_NUMBER'] == pr_number]
+    if not filtered:
+        raise ValueError(f"pr number {pr_number} was not found")
+    return filtered[0]
+    
+def fetch_prs(repo_owner, repo_name):
+    prs = __get_cached_file(repo_owner, repo_name)
+    if not prs:
         prs = []
         context = Context(repo_owner, repo_name, GITHUB_TOKEN)
 
-        pull_requests = fetch(context, "pulls")
+        pull_requests = __fetch(context, "pulls")
 
         for pr in pull_requests:
             pr_obj = {}
-            commits =  fetch(context, pr['commits_url'])
+            pr_obj['PR_NUMBER'] = pr['number']
+            commits =  __fetch(context, pr['commits_url'])
             pr_obj['PR_TITLE'] = pr['title']
 
             commits_array = []
@@ -54,7 +67,7 @@ def fetch_pr(repo_owner, repo_name):
             for commit in commits:
                 commit_obj = {}
                 commit_obj['COMMIT_MESSAGE'] = commit['commit']['message']
-                content = fetch(context, commit['url'])
+                content = __fetch(context, commit['url'])
                 files = content['files']
                 
                 files_array = []

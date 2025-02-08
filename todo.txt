@@ -8,13 +8,13 @@ Nadav
 
 Ron
 -----
-- fix bug when commit has 0 changes
-- easy way to run analysis on PR
+v fix bug when commit has 0 changes
+v easy way to run analysis on PR
+- add PR body to data, insist that the llm not take it 100%
 - read current prompts and consider changes
 - false positive - false negative detection 
 - better var naming and add comments
 - add short reasoning behind category selection for the llm response
-- add PR body to data, insist that the llm not take it 100%
 - check if PR commits can be squashed before sending to the llm to reduce noise
 
 Future improvements
