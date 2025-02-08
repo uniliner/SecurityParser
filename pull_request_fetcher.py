@@ -45,27 +45,32 @@ def fetch_pr(repo_owner, repo_name):
 
         for pr in pull_requests:
             pr_obj = {}
-            prs.append(pr_obj)
             commits =  fetch(context, pr['commits_url'])
             pr_obj['PR_TITLE'] = pr['title']
 
             commits_array = []
             pr_obj['COMMITS'] = commits_array
-
+            
             for commit in commits:
                 commit_obj = {}
-                commits_array.append(commit_obj)
                 commit_obj['COMMIT_MESSAGE'] = commit['commit']['message']
                 content = fetch(context, commit['url'])
                 files = content['files']
                 
                 files_array = []
                 commit_obj['COMMIT_FILES'] = files_array
-                for file in files:
+                
+                for file in filter(lambda f: f['changes'] > 0, files):
                     file_obj = {}
                     file_obj['FILE_NAME'] = file['filename']
                     file_obj['FILE_PATCH'] = file['patch']
                     files_array.append(file_obj)
+                
+                if files_array:
+                    commits_array.append(commit_obj)
+                
+            if any(commit['COMMIT_FILES'] for commit in commits_array):
+                prs.append(pr_obj)
 
         with open(f'cache/{repo_owner}_{repo_name}_prs.json', "w") as file:
             json.dump(prs, file)
