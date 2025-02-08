@@ -60,6 +60,7 @@ def fetch_prs(repo_owner, repo_name):
             pr_obj['PR_NUMBER'] = pr['number']
             commits =  __fetch(context, pr['commits_url'])
             pr_obj['PR_TITLE'] = pr['title']
+            pr_obj['PR_BODY'] = pr['body']
 
             commits_array = []
             pr_obj['COMMITS'] = commits_array

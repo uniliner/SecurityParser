@@ -295,14 +295,16 @@ Remember, the goal isn't just to identify new endpoints but to understand their 
 each pull request has the following structure:
 """
 {
-	"PR_TITLE": this is the pull request's title
+	"PR_TITLE": the pull request's title
+    "PR_NUMBER": the pull request's number, irrelevant for you...
+    "PR_BODY": the committer's description of the pull request. IMPORTANT: ONLY use it as general info and NOT as a way to decide if the commit is relevant for us
 	"COMMITS":
 	[
-		"COMMIT_MESSAGE": this is the current commit message
+		"COMMIT_MESSAGE": the current commit message
 		"COMMIT_FILES":
 		[
-			"FILE_NAME": this is the file's full path
-			"FILE_PATCH": this is the file's changes
+			"FILE_NAME": the file's full path
+			"FILE_PATCH": the file's changes
 		]
 	]
 }

@@ -10,7 +10,7 @@ Ron
 -----
 v fix bug when commit has 0 changes
 v easy way to run analysis on PR
-- add PR body to data, insist that the llm not take it 100%
+v add PR body to data, insist that the llm not take it 100%
 - read current prompts and consider changes
 - false positive - false negative detection 
 - better var naming and add comments
