@@ -3,14 +3,24 @@ Nadav
 - find auth related PRs/projects for testing
 - dive into examples and edge-cases considering improvements in the pr-analysis-prompt-final.md file
 - create another security controls prompt
+- make sure output format is not included in the prompt (we have separate file)
+- system promt addition to help llm understand git patch contentent
 
 Ron
 -----
+- fix bug when commit has 0 changes
 - easy way to run analysis on PR
 - read current prompts and consider changes
 - false positive - false negative detection 
+- better var naming and add comments
+- add short reasoning behind category selection for the llm response
+- add PR body to data, insist that the llm not take it 100%
+- check if PR commits can be squashed before sending to the llm to reduce noise
 
-
-
-update pr-analysis-prompt-final.md //TODO sections
- 
+Future improvements
+--------------------
+- update pr-analysis-prompt-final.md //TODO sections
+- find a way to send system prompts and main prompt once in the conversation and only send PR data each time
+  is it possible ? what do we need to make it happen ?
+- improve system prompts
+- explore langchain chains usage
