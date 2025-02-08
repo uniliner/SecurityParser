@@ -1,0 +1,16 @@
+Nadav
+------
+- find auth related PRs/projects for testing
+- dive into examples and edge-cases considering improvements in the pr-analysis-prompt-final.md file
+- create another security controls prompt
+
+Ron
+-----
+- easy way to run analysis on PR
+- read current prompts and consider changes
+- false positive - false negative detection 
+
+
+
+update pr-analysis-prompt-final.md //TODO sections
+ 
