@@ -5,5 +5,6 @@ Please categorize the pull request into exactly one of these 3 possibilities:
 
 Rules:
 1. Only return one of these three words
-2. No explanation needed
+2. After categorizing the pull request, explain your decision referring to specific file/class/method.
+   each explanation should refer to a specific part of the code
 3. Be case-sensitive in your response

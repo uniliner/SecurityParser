@@ -12,7 +12,7 @@ def print_usage():
 
 def analyze(pr):
     analysis = bot.send(json.dumps(pr))
-    print(f'[{pr['PR_TITLE']}]: {analysis}')
+    print(f"[{pr['PR_TITLE']}]: {analysis}")
 
 if len(sys.argv) != 2:
     print_usage()

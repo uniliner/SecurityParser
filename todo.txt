@@ -5,6 +5,7 @@ Nadav
 - create another security controls prompt
 - make sure output format is not included in the prompt (we have separate file)
 - system promt addition to help llm understand git patch contentent
+- check if endpoint is the correct term in unified-pr-endpoint-analysis_shortened.md
 
 Ron
 -----
@@ -25,3 +26,4 @@ Future improvements
 - improve system prompts
 - explore langchain chains usage
 - currently only file changes are checked. need to add handling of newly added files and file deletions
+- decide whether to include pom.xml changes in the analysis
