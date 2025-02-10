@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import requests
 from dotenv import load_dotenv
@@ -32,10 +33,40 @@ def __fetch(context, endpoint):
         full_url = endpoint
     else:
         full_url = f'{base}{context.repo_owner}/{context.repo_name}/{endpoint}'
+        if endpoint == 'pulls':
+            full_url += '?state=all'
 
-    response = requests.get(full_url, headers=headers)
-    response.raise_for_status()  # Raises an HTTPError for bad responses
-    return response.json()
+    rel = 'next'
+    responseJson = []
+    exp = re.compile('\\s*<(?P<url>[^>]+)>;\\s+rel=\"(?P<rel>[^\"]+)"')
+
+    while(rel == 'next'):
+        response = requests.get(full_url, headers=headers)
+        response.raise_for_status()  # Raises an HTTPError for bad responses
+        if responseJson == []:
+            responseJson = response.json()
+        else:
+            if not isinstance(responseJson, list):
+                resObj = response.json()
+                if responseJson['sha'] == resObj['sha']:
+                    responseJson['files'] += resObj['files']
+                else:
+                    raise Exception('expected same object on pagination url')
+            else:
+                responseJson += response.json()
+        rel = 'last'
+
+        if 'link' in response.headers:
+            links = response.headers['link']
+            parts = links.split(',')
+
+            nextRel = next((part for part in parts if 'rel="next"' in part), None)
+
+            if nextRel:
+                m = exp.search(nextRel)
+                full_url = m.group('url')
+                rel = m.group('rel')
+    return responseJson
 
 def fetch_pr(repo_owner, repo_name, pr_number):
     prs = __get_cached_file(repo_owner, repo_name)
@@ -74,7 +105,7 @@ def fetch_prs(repo_owner, repo_name):
                 files_array = []
                 commit_obj['COMMIT_FILES'] = files_array
                 
-                for file in filter(lambda f: f['changes'] > 0, files):
+                for file in filter(lambda f: f['changes'] > 0 and 'patch' in f, files):
                     file_obj = {}
                     file_obj['FILE_NAME'] = file['filename']
                     file_obj['FILE_PATCH'] = file['patch']

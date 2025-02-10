@@ -24,3 +24,4 @@ Future improvements
   is it possible ? what do we need to make it happen ?
 - improve system prompts
 - explore langchain chains usage
+- currently only file changes are checked. need to add handling of newly added files and file deletions
