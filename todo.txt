@@ -9,6 +9,7 @@ Nadav
 
 Ron
 -----
+- think of possible examples to search for challanging the llm
 v fix bug when commit has 0 changes
 v easy way to run analysis on PR
 v add PR body to data, insist that the llm not take it 100%
@@ -27,3 +28,6 @@ Future improvements
 - explore langchain chains usage
 - currently only file changes are checked. need to add handling of newly added files and file deletions
 - decide whether to include pom.xml changes in the analysis
+- enhance categorization resolution for cases that do not exactly match the search criteria
+  for instance when the change is in the pom config version update ...
+- consider giving security related changes in the project's pom file (assuming java) a special/separate categorization
