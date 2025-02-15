@@ -292,7 +292,7 @@ Endpoint Analysis Report:
 
 Remember, the goal isn't just to identify new endpoints but to understand their complete security posture across the entire PR lifecycle. This understanding helps prevent security issues and ensures consistent implementation of security controls.
 
-each pull request has the following structure:
+each pull request has the following json structure:
 """
 {
 	"PR_TITLE": the pull request's title
@@ -304,7 +304,7 @@ each pull request has the following structure:
 		"COMMIT_FILES":
 		[
 			"FILE_NAME": the file's full path
-			"FILE_PATCH": the file's changes
+			"FILE_PATCH": changes to the file in git unified diff format
 		]
 	]
 }

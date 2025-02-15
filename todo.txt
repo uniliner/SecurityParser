@@ -9,6 +9,7 @@ Nadav
 
 Ron
 -----
+- fix file_patch format to be a proper git diff file
 - think of possible examples to search for challanging the llm
 v fix bug when commit has 0 changes
 v easy way to run analysis on PR
