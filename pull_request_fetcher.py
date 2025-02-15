@@ -19,7 +19,7 @@ def __get_cached_file(repo_owner, repo_name):
     filename = f'cache/{repo_owner}_{repo_name}_prs.json'
 
     if os.path.exists(filename):
-        with open(filename) as json_data:
+        with open(filename, encoding='utf-8') as json_data:
             return json.load(json_data)
 
 def __fetch(context, endpoint):
