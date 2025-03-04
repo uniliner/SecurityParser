@@ -1,0 +1,1024 @@
+# Together-Java/TJ-Bot:1052
+# spring-guides/tut-spring-boot-oauth2:142       
+# apella1/movies-api:2
+# juanmf/java-bootcamp-2016:42
+# amigoscode/login-registration-backend:15       
+# ypivanov-hill/2024-09-otus-spring-Ivanov:15    
+# FINTLabs/fint-consumer-administrasjon-arkiv:11 
+# mate-academy/jv-spring-stateless:78
+# jinyoungchoi95/spring-security-authentication:3
+# mate-academy/jv-spring-stateless:96
+# spring-projects/spring-security:14339
+# spring-projects/spring-security:14401
+# spring-projects/spring-security:14402
+# jaredhanson/passport:845
+# jaredhanson/passport:901
+# jaredhanson/passport:902
+# firebase/firebase-js-sdk:5688
+# firebase/firebase-js-sdk:6201
+# firebase/firebase-js-sdk:6456
+# spring-projects/spring-session:1084
+# spring-projects/spring-session:1085
+# spring-projects/spring-session:1086
+# apache/shiro:614
+# apache/shiro:615
+# apache/shiro:616
+# vercel/next.js:62645
+# vercel/next.js:62646
+# vercel/next.js:62647
+# nuxt/nuxt:22491
+# nuxt/nuxt:22492
+# nuxt/nuxt:22493
+# auth0/auth0.js:614
+# auth0/auth0.js:615
+# auth0/auth0.js:616
+# jihwooon/Spring6-Study:3
+# Cloud-Engineering2/project2-team4:11
+# next-step/spring-security-authentication:42    
+# kesavbalaji/config-project:1
+# yellTa/Movie-Reservation-System:7
+# paulb2295/spring-security:2
+# Long-Lost-s/casestudy-module-4:23
+# it-at-m/ezLDAP:35
+# LikeLion-13th-SKHU/Backend-Study:24
+# SWLUG-web/Back:75
+# woorifisa-service-dev-4th/backend-haruhana:15
+# spring-projects/spring-security:16499
+# vidiLang-tripleS/backend-main:9
+# Je4nComJ/desafio-backend-sea:2
+# mate-academy/jv-spring-stateless:107
+# mate-academy/jv-spring-stateless:269
+# mate-academy/jv-spring-stateless:60
+# bcgov/nr-brmb-pim:205
+# Cloud-Engineering2/project2-team4:16
+# digiALERT1/Java_2:5
+# mate-academy/jv-spring-stateless:248
+# SWLUG-web/Back:82
+# misterSokor/litflix-app:7
+# tdiesler/camel:28
+# juantorresdev/Nimbus-KYCService:13
+# it-at-m/Wahllokalsystem:620
+# mate-academy/jv-spring-stateless:176
+# bcgov/nr-brmb-pim:204
+# mate-academy/jv-spring-stateless:115
+# mate-academy/jv-spring-stateless:108
+# next-step/spring-security-authentication:38
+# springdoc/springdoc-openapi:2796
+# JeonJaeeun/EduSync:3
+# SimaTankSAAS/nifi-1.4.0:141
+# mate-academy/jv-spring-security-part-2:272
+# Deffris/WorkTask:9
+# udovidio/mesh:12
+# tejavenkatlanka/partialproject:48
+# hmcts/ia-case-migration:20
+# fernando-oc/springdoc-openapi:1
+# mate-academy/jv-spring-security-part-2:268
+# mate-academy/jv-spring-security:259
+# svgogin/ServiceRepository:28
+# mate-academy/jv-spring-security:300
+# christianpedersen22/BearcatEventPlanner:6
+# Oh-my-class/oh-my-backend:66
+# dipendra-yadav/spring-security-ineasy-steps:8
+# woorifisa-service-dev-4th/backend-haruhana:13
+# mate-academy/jv-spring-security-part-2:452
+# ita-social-projects/GreenCity:7464
+# mate-academy/jv-spring-security:493
+# ali-bouali/spring-boot-3-jwt-security:49
+# openrewrite/rewrite-spring:652
+# Rmmsuoo/spring_security_sample:4
+# SimaSaasDemo/nifi-1.4.0:116
+# steve-community/steve:1074
+# amaybaum-dev/remediate-test:49
+# fdant12/JWT-Authentication-and-Authorisation-with-SpringBoot-Security-6:8
+# dipendra-yadav/spring-security-ineasy-steps:26
+# varadvk/jwt-youtube:3
+# khulnasoft-lab/spring:12
+# mate-academy/jv-spring-security:476
+# lucassasha/keycloak:4
+# SimaTankSAAS/nifi-1.4.0:44
+# RP-StarHub/Back-end:26
+# KooSuYeon/backend_dev_onboarding:1
+# Marafone/Backend:26
+# Ihor-Sl/ItBlog:1
+# khanhnguyenj/huongdanjava.com:175
+# next-step/spring-security-authorization:6
+# mgkit-inc/GoTogether:18
+# ankidaemon/SpringSecurityInEasySteps:9
+# lucassasha/keycloak:144
+# gcjordi/dhis2-core:18
+# amaybaum-dev/vprofile-project:215
+# mate-academy/jv-spring-security:273
+# rsmitt/java-reboot:37
+# dipendra-yadav/spring-security-ineasy-steps:59
+# PacktPublishing/Secure-Your-Spring-Based-Applications:5
+# silentiumNoxe/priest_feudal_back:11
+# Opetushallitus/otuva:26
+# FINTLabs/fint-consumer-skeleton:36
+# abcvinicius/PUBLIC___PROJETO.BACKEND.JWT:1
+# dameun0527/Onboarding-java:4
+# mate-academy/jv-spring-security:247
+# FullGorilla/spring_security_sample:2
+# Dongpo-App/Dongpo-BE:161
+# flipkart-incubator/varadhi:228
+# dipendra-yadav/spring-security-ineasy-steps:13
+# mate-academy/jv-spring-security:576
+# ankidaemon/SpringSecurityInEasySteps:37
+# MikhailEmv/springBootEmelianov:5
+# uPortal-Project/spring-portlet-contrib:43
+# mate-academy/jv-spring-security:275
+# thongdanghoang/sep490:126
+# dorm-social-room-manager/dsrm-backend:105
+# YaraAljarbou/Multitenancy:3
+# mate-academy/jv-spring-security:462
+# duckmelang/duckmelang-backend:36
+# PacktPublishing/Secure-Your-Spring-Based-Applications:36
+# depromeet/16th-team1-BE:19
+# rk0720/spring_security_sample:2
+# mate-academy/jv-spring-security:449
+# aleksey-petrov-github/logbook:75
+# JandiGoorm/jandi_plan_backend:2
+EdwinRamosCabrera/Spring_Pizzeria:11
+Gula1507/weiterbildungsfinder:23
+SimaTankSAAS/nifi-1.4.0:121
+ankidaemon/SpringSecurityInEasySteps:60
+dhruv-pratap/AxonFramework:17
+SimaSaasDemo/nifi-1.4.0:98
+steve-community/steve:1544
+spacecodee/springboot-security-open-template:5
+oskariorg/oskari-server:1124
+ro-msg-spring-training/online-shop-adelabaldean2001:2
+marwensaid/kata-spring-security:22
+f-lab-edu/local-dating:19
+PacktPublishing/Secure-Your-Spring-Based-Applications:62
+ankidaemon/SpringSecurityInEasySteps:23
+mate-academy/jv-spring-security-part-2:232
+manuel-freire/iw:6
+lucassasha/vprofile-project:12
+Jankaree/projekt_ws:18
+amaybaum-prod/remediate-test:12
+Ahnjunyoung1110/capstone_server_docker:1
+next-step/spring-security-authentication:31
+amaybaum-prod/vprofile-project:12
+next-step/spring-security-authentication:36
+amaybaum-saas-eu-mend-io/vprofile-project2:12
+PacktPublishing/Secure-Your-Spring-Based-Applications:14
+amaybaum-prod/vprofile-project2:11
+microcks/microcks:1096
+Learnathon-By-Geeky-Solutions/sketchboard:39
+DimaMend/ava-sec-code:50
+aproeve/egeria:721
+nhnacademy-be8-Hexa/Hexa-JWT-Auth-Service:7
+saasIlDemo/nifi-1.4.0:119
+yevgenmar/egeria:762
+D3vJ30n/stoblyx-portfolio:1
+stormpath/stormpath-spring-boot-i18n-test:1
+Lisa-1919/taxi:26
+marwensaid/airportCouchbaseSpringBoot:3
+it-at-m/refarch-templates:690
+EmmanuelDT13/MS_Spring_Security:6
+fungover/system2024:94
+agorohovcom/skypro-graduate-work:9
+Galaxy-Software-Service/vprofile-project:13
+FridgeTown/backend:53
+Antonia2019/FinalProject_Software_Development_Academy:3
+springframeworkguru/ssc-brewery:25
+KevinWorkman/StaticVoidGames:18
+amberkakkar01/Ewaste-Mangement-Backend:2
+gdsc-konkuk/platform-core:72
+Extase67/BookShop:8
+Asaraykin/medical_card:3
+prgrms-be-devcourse/NBE3-4-1-Team8:38
+prgrms-be-devcourse/NBE3-4-1-Team8:37
+wt-Yoha/CompanyBackgroundControlSystem:1
+java-hyein/spring_class_code:2
+ruslanaprus/short-url:14
+mortezab89/spring-security-MVC:2
+next-step/spring-security-authentication:40
+J0aoPaulo/oak-tecnologia-teste-back:9
+FileFighter/RestApi:144
+geun02k/MyECommerce:7
+usnistgov/oar-dist-service:113
+nyanmyohtet/spring-boot-starter:11
+VitorEspinoza/gestaoprojetos-backend:2
+duckmelang/duckmelang-backend:52
+ipantazi/jv-online-book-store:10
+Hojin02/spring-plus:9
+OrganizationAccountNameForDemoPurpose/StockMarket:56
+amazon-archives/amediamanager:15
+cristinaImre/ausyjewelry:2
+spring-projects/spring-security:16408
+amaybaum-dev/vprofile-project4:86
+thomasm1/java-devops:7
+daniel-shuy/spring-security:1
+mehditahmasebi/spring:1
+mehditahmasebi/spring:2
+dbrjsdn2051/Assignment-Security:22
+gsb0505/meetCore2:4
+kirtananushka/java-advanced-backend-core-module-04-task-01:1
+blue-veery-gmbh/json-scopes:2
+RanioloAD/BackEndAlejandroRaniolo:1
+goodstudio/spring-security:1
+SealAnia/hospital_project:1
+andshl/webApp:4
+eGovFramework/egovframe-msa-edu:22
+amaybaum-dev/remediate-test2:46
+spring-projects/spring-security:16113
+jcarlosvale/playground:7
+OpenLiberty/open-liberty:23251
+wonowonow/jwt-security:6
+saessagMarket/back:19
+mwilliams7197/WebGoat-Legacy:196
+TheConstructor/tbmgmt:214
+FC-InnerCircle-ICD2/commerce-BE:7
+CaritasDeutschland/caritas-rework-onlineBeratung-uploadService:4
+Jprplana/mi-portfolio:47
+cerberustesting/cerberus-core:2572
+spring-projects/spring-authorization-server:1725
+mcochranca/hapi-fhir:18
+vinirib/casadocodigo-springboot:61
+marteoma/Software-2:23
+datakaveri/hapi-fhir:4
+antianchi/spring-security:1
+rslakra/Samples:30
+AYU-Side-Hidden-Gems-Playlist/back:15
+Kovvvalski/jwt-auth:1
+Motiff2/ORCID-Source:14
+Double-Owner/ReVibe:158
+thongdanghoang/sep490:95
+renatobarata/PedidoVendaRbg:16
+Double-Owner/ReVibe:156
+Ruedal/ninescent:11
+bmarky1812/EUSURVEY:6
+softeer5th/Team6-DuBu:149
+spring-projects/spring-security:14791
+PalinaAlbrechtsen/sixth-week:1
+huifer/spring-security:1
+spring-projects/spring-security:16370
+rajaram5/FAIRDataPoint:63
+isabella232/spring-security:1
+nital-shah/maven-dependabot-demo1:3
+lsongseven/try-new-things:1
+AlesInfiny/maia:1772
+chains-project/besu:9
+intterra-io/geoserver:4
+ScaRRy-7/HabitApp:6
+kbss-cvut/reporting-tool:3
+valitydev/adapter-bank-spring-boot-starter-test:21
+sergio11/springmvc-thymeleaf-jpa:6
+kbss-cvut/STAMP-Based-Investigation-Tool:2
+svis/topjava:12
+it-at-m/refarch-templates:559
+spring-projects/spring-security:16071
+daviderie/keycloak:2
+Kristofers/SpringSecurityOAuth2:4
+yjkim2015/WEB-TEST:5
+prabhavagrawal/discoveri-happytrip:4
+IsyFact/isyfact-standards-referenzimplementierung:12
+Alexis4152/La_granja_web:1
+DdingSroom/dding-sroom-backend:2
+GAMZA-BAT/algohub-server:274
+egovernments/URBAN:174
+legasjay/task_management_system:7
+thisdudkin/taxi-restapi:38
+spinnaker/kork:1216
+Wojtas1996PL/book-store:15
+jjordansd/getting-started-springsecurity-31:3
+thisdudkin/taxi-restapi:39
+amaybaum-staging/vprofile-project2:11
+ensurifySSU/ensurify_backend:11
+khaniku/Comet:1
+JaS-JavaStudy/refrigerator:12
+cerberustesting/cerberus-core:2566
+GovernIB/pluginsib-byentity:16
+amaybaum-staging/vprofile-project:11
+yaogdu/jessica:4
+ProjectGoGym/BackEnd:121
+shintyakos/AuthWebApplication:6
+infosys-ghas/WebGoat-Legacy:4
+spring-projects/spring-security:16345
+fungover/system2024:87
+andresnssbx/springboot-sqs-concurrent:1
+diging/simple-users:13
+FraunhoferISST/DSC-Camel-Instance:56
+ibrahima-isi/meetstudent:5
+asynll/spring-reactive-sample:149
+asynll/spring-reactive-sample:150
+asynll/spring-reactive-sample:170
+asynll/spring-reactive-sample:173
+asynll/spring-reactive-sample:174
+asynll/spring-reactive-sample:198
+asynll/spring-reactive-sample:191
+asynll/spring-reactive-sample:192
+asynll/spring-reactive-sample:229
+asynll/spring-reactive-sample:195
+asynll/spring-reactive-sample:166
+asynll/spring-reactive-sample:167
+asynll/spring-reactive-sample:137
+asynll/spring-reactive-sample:140
+asynll/spring-reactive-sample:142
+asynll/spring-reactive-sample:143
+asynll/spring-reactive-sample:144
+asynll/spring-reactive-sample:147
+asynll/spring-reactive-sample:148
+asynll/spring-reactive-sample:179
+asynll/spring-reactive-sample:222
+asynll/spring-reactive-sample:156
+asynll/spring-reactive-sample:157
+asynll/spring-reactive-sample:225
+asynll/spring-reactive-sample:230
+asynll/spring-reactive-sample:185
+asynll/spring-reactive-sample:187
+asynll/spring-reactive-sample:188
+asynll/spring-reactive-sample:183
+asynll/spring-reactive-sample:219
+asynll/spring-reactive-sample:205
+asynll/spring-reactive-sample:206
+asynll/spring-reactive-sample:160
+asynll/spring-reactive-sample:161
+asynll/spring-reactive-sample:197
+asynll/spring-reactive-sample:155
+asynll/spring-reactive-sample:122
+asynll/spring-reactive-sample:123
+asynll/spring-reactive-sample:124
+asynll/spring-reactive-sample:213
+asynll/spring-reactive-sample:214
+asynll/spring-reactive-sample:217
+asynll/spring-reactive-sample:126
+asynll/spring-reactive-sample:128
+asynll/spring-reactive-sample:130
+asynll/spring-reactive-sample:131
+asynll/spring-reactive-sample:133
+asynll/spring-reactive-sample:134
+asynll/spring-reactive-sample:135
+spring-projects/spring-security:16348
+darkoBill/camel-cookbook-examples:1
+Team-0nePiece/DailySnap-BE:23
+IsyFact/isyfact-standards-referenzimplementierung:13
+anterostecnologia/anterossecuritystore:2
+aramsoft/aramcomp:58
+GU-99/grow-up-pms:344
+Imam532/SpringSecurity:2
+huamichaelchen/rest-assured:3
+amaybaum-local/vprofile-project:12
+GuilhemSempere/Gigwa2ServiceImpl:54
+mP1/camel:3
+pragathiketham/LPBatchManagementSystemUI:3
+ruheets/SpringMVCSecurity:1
+Bhimanagoud/camel:2
+tutorial-sejong/cr-backend:89
+guravvaishnavi02/fastjson:6
+aykanatm/toybox:25
+ani-for-u/backend:8
+aramsoft/aramcomp:59
+renovate-reproductions/christophetd-log4shell-vulnerable-app:6
+LikeLion-13th-SKHU/Backend-Study:8
+gbif/pipelines:1112
+dleguis/carpooling:33
+Dabbeeru/BMR504:21
+Opetushallitus/otuva:24
+MaronHatoum/java-1:11
+wchiviti/camunda-spring-boot-commons:5
+jnewmoyer/geoserver:4
+hsuh9416/kissinBugs:43
+hsuh9416/kissinBugs:42
+t5752139/maven--:19
+AlbinNils98/GameArc:41
+lochanamalt/Mobile-Phone-Catalog:61
+Canva/sonar-java:14
+MahiBegoug/TP_OUTILS:31
+rogowski-piotr/iot-db-management:26
+tjMpholo/eMusicStore:30
+spring-projects/spring-security:16186
+srinivas1918/spring-security-dynamic-authorization-and-authentication:13
+OhoudAlawad/Demo-WebGoat:7
+opencast/opencast:6422
+xc-link/jeepay:1
+TankOrgDev/nifi-1.4.0:36
+sauravkumarburnwal36/spring-secure-root:1
+liweinan0423/spring-security:1
+mercedes-benz/sechub:3775
+dev-blogs/spring-mvc:1
+dev-blogs/spring-mvc:2
+123sten123/soapLaba:2
+PSMRI/Common-API:152
+nob0dj/springWebAPI:4
+nob0dj/springWebAPI:5
+mulesoft/mule-migration-assistant:777
+CreareSistemas/bracell-agrolog-celulose:8
+robinhood-jim/JavaFramework:203
+TFOMSNSO/Survay:1
+jumarko/poptavka:66
+IsyFact/isy-task:11
+next-step/spring-security-authentication:30
+sungyoungPark/springPractice2:1
+virtual-imaging-platform/VIP-portal:508
+CreareSistemas/bracell-agrolog-celulose:4
+next-step/spring-security-authentication:35
+hojoungjang/spring-login-examples:3
+AhataPachabut/scheduler:3
+YU-SOS/sos-was:79
+Jhovanni/RegistroPersonas:7
+saminfante/spring-boot:74
+openrewrite/rewrite-spring:578
+juoliii/bt-common:3
+Y-edu/Y-edu-backend:23
+fmh-charity/fmh-backend:279
+Ryan-Oneil/oneil-industries-website:139
+IgorLevch/jwt:1
+Young-Flow/server:86
+CUKCatSnap/CUKCATSNAP_Server:93
+J0aoPaulo/oak-tecnologia-teste-back:6
+spring-projects/spring-security:16208
+algofi-sas/spring-security-course:3
+xxzeroeight/Needa:2
+murilonerdx/library-api:93
+psi-probe/psi-probe:4189
+ureca9/BE_MungGu:106
+rajadilipkolli-learning/spring-boot-microservices-series-gradle:172
+imzerocool99/spring-rest-example:94
+psi-probe/psi-probe:4181
+tkpm715/java-task10:2
+apache/ambari:3732
+ORCID/ORCID-Source:7113
+Joy-Panda/spring-cloud-test:9
+Denis43t/UrlShortener:1
+renovate-testing/test-14552-gradle-error-updating-branch:1
+felipehernandez/folker-test-graphql-test-server:29
+Esri/geoportal-server-harvester:233
+Hchaymae/Examen-Spring:17
+HangTo0401/jwt-token:2
+GoogleCloudPlatform/fda-mystudies:5172
+kimmin-ko/moseory:2
+evil-tim/audit4j-spring:7
+sovisou/Online-Book-store:8
+Motiff2/ORCID-Source:8
+eu-digital-green-certificates/dgca-validation-decorator:53
+pate1431/Vaccine_Wallet:29
+deepdive-debug/spring-boot-realworld-example-app:19
+d-saitou/spring-mvc-example:19
+bossit1998/tashman:4
+RenanAbbade/curso-spring:2
+AlexRogalskiy/java4you:251
+IgrowkerTraining/i004-wander-back-java:33
+alek-w/sudoko:29
+New-ReLINK/ReLINK:81
+Maathru/Backend:86
+dleguis/carpooling:26
+eu-digital-green-certificates/dgca-booking-demo-backend:27
+vall-ball/bank01:30
+bmarky1812/EUSURVEY:1
+CDaRip2U/egeria:1403
+9oormthon-univ/2024_DANPOONG_TEAM_52_BE:48
+Alexandrbolshakov/partslist:5
+adacayi/java_basics:5
+jjwrelaunch/jjw:5
+vall-ball/biblio01:33
+cmgrote/egeria:1382
+alexandra-bucur/egeria:1478
+vall-ball/forum02:26
+Y-edu/Y-edu-backend:4
+vall-ball/kino01:34
+CDaRip2U/egeria:1381
+hapifhir/hapi-fhir:6233
+patrycjaorgtest2/hapi-fhir:4
+Eatory/eatory-backend:36
+frenchblack/Board:9
+TumoroteK/TumoroteK:8
+marwensaid/kata-spring-security:1
+Double-Owner/ReVibe:88
+yevgenmar/egeria:834
+hendisantika/spring-boot-invoice-app:102
+valitydev/org-manager:68
+tintigx/steve:91
+patbaumgartner/swiss-coupon-booster:5
+ibrahima-isi/meetstudent:4
+gaZero/reservation:2
+SHKim55/Knee-2-Kneel-Spring:23
+anchous0215/java:1
+OhoudAlawad/Demo-WebGoat:3
+yunjaeKim-dev/Festargram:3
+jesperancinha/jeorg-spring-test-drives:759
+wiLLLL23/springsecurity:7
+KWSimon/minoshill:1
+PavloMelnyk10/spring-bookstore:8
+Gabriel-Correia-Silva/Templete_Java:2
+GreenCityProject/GreenCityUser21_team_1_October:28
+Gabriel-Correia-Silva/Templete_Java:1
+tattrung15/SpringSecurity:32
+puzzle/unilu-pruefungsabfrage:171
+thongdanghoang/sep490:40
+jumarko/poptavka:58
+BranislavBeno/Ronja-CRM-Desktop-Client:194
+SPoint42/shopizer:57
+leezu2020/bookpot:11
+galvisjuanc/pizzeria_jpa:114
+star-pooh/keyduck:12
+aigt/cadpp-server:4
+plamenpetrov/spring-boot-microservice:4
+yonni-github/TodoManagementSpringMVC:10
+ensurifySSU/ensurify_backend:29
+prgrms-web-devcourse-final-project/WEB1_1_ZeroOne_BE:35
+eclipse-jkube/jkube-integration-tests:380
+MaivMinh/movie-reservation:2
+OneBusAway/onebusaway-application-modules:381
+looker/KeyBox:25
+rhacs/detta-v2:57
+santebe/vprofile-project:12
+jjwrelaunch/jjw:3
+Opetushallitus/otuva:14
+lanternavermelha/spring-crm-rest-app:24
+JoonHoSon/cliff3-library:16
+rnfkwoddl12/test:20
+savindu29/spring-microservices-discovery-gateway:4
+asteriaaaa/course-sys-toy:3
+jeffersonframos/base-spring-mvc-security-hibernate-envers:16
+Dabbeeru/pipeline:20
+UoM-Podcast/opencast:323
+matthewb66/demo-java-sec-code:53
+JoyChou93/java-sec-code:91
+SevenLightnapper/graduation:17
+nimalank7/udemy-spring-security:5
+rjmveloso/spring-security-servlet:4
+AHMRezaul/Martsy:32
+mostafa4099/SpringSecurity-CustomLogin:10
+mostafa4099/SpringSecurity-Logout:10
+mostafa4099/SpringSecurity-DefaultLogin:10
+D3R5/Sprint-Final-Modulo-6:8
+ahopgood/Maven_Archetypes:41
+gauravbrills/springtdd:26
+18061495586/Spring-Security-Demo:7
+abmounir/DevOps-Projects-2:1
+NikolayG92/Food-Delivery:6
+liu-dong/meet-platform:33
+eccosolutions/cosmo-core:66
+rajadilipkolli/mfscreener:445
+Rohithv07/Java-Learning:153
+Zemez/jm-spring-mvc:9
+virtualidentityag/caritas-rework-onlineBeratung-userService:1
+pranav-patil/cucumber-framework:48
+rlagkrwls258/spring-plus:1
+RVSoft-RUS/RVSoft-RUS-2.4.1_CRUD_Security-JPA:10
+hsuh9416/kissinBugs:41
+sergueik/springboot_study:295
+piratagava/Spring-Mvc-Jpa:28
+MyLearningRepo/SpringSecurity:6
+sulistionoadi/common-login:7
+baudiachatb/cocial_project:2
+gawaliswapnil1/java:15
+Maathru/Backend:49
+chanduv33/rest-template:18
+PawelDabrowski83/minesweeper:11
+davidtrom/DTV-Backend:37
+farmerWHL/robinson:5
+arditmete/personal-weather-:3
+kong0827/Spring-Security:13
+SathurshanPusparaj/JavaTraining:6
+kaleliguray/spring-crm-rest-security-example:34
+MahiBegoug/TP_OUTILS:27
+Raju7474/github:7
+yaseenaljamal/ORCID-Source:41
+rochaskingdom/spring-rest-api:2
+JessiG2319/ORCID-Source:9
+fragkiskos/SpringBootAclValidator:4
+DEV-KRB/User-Management-SpringSecurity:9
+syncfusion/nifi:16
+ViktorNA/externship:2
+zylee19950505/data-interface:14
+ORCID/ORCID-Source:7010
+jorros/Dynasties-of-Scorpia:3
+Epasper/BookKeeper:7
+7thHacker/everyday7PMstory:3
+synya/where-to-go:14
+kssion/JDeploy:12
+SherfeyInv/ORCID-Source:8
+chris-tophe/EasyQuoteMakerService:4
+matebence/messaging-service:4
+kshitij-d-boom/Ksdcoder:7
+ugonakawaka/pub:66
+pedrofvieira/taghuntschool:8
+hmcts/ccd-case-disposer:674
+dk-aegis/aegis-server:52
+srinivas1918/spring-security-dynamic-authorization-and-authentication:12
+guillermolam/tutorials:10
+fabiovmat/springthpsql:6
+kisinad/spring-security-basic:35
+TrustyUnitReview/ProductReview:96
+Gnoario/BlackRover:3
+LukaszProkop/crm:6
+Andreichenko/SpringMVC:81
+jbqneto/spring-produtos:5
+kleb-prog/Spring_1:41
+byeongukk/pod:1
+a2dm/commun:7
+szaqal/KitchenSink:108
+Christofani/projeto-agrix:4
+Yam0r/Spring-Boot-intro:12
+Ahbrown41/insecure-bank:1
+SPoint42/WebGoat-Legacy:21
+BIGBIGGOD/mine-util:2
+nob0dj/springWebAPI:6
+nyanmyohtet/spring-boot-starter:10
+thongdanghoang/sep490:93
+polimediaupv/opencast:420
+drevald/grimoire:39
+dzhin1993/topjava:19
+CathomeGit/graduation:16
+flaviosalgado2/cursospringrestapi:15
+ty1972873004/spring-cloud-oauth2:3
+virtualidentityag/caritas-rework-onlineBeratung-statisticsService:1
+mostafa4099/SpringSecurity-CSRF:11
+kbss-cvut/s-pipes:284
+subugoe/Gauss-Letters:2
+TrustyUnitReview/ProductReview:55
+kosa-final-stitch/stitch-be:42
+skehdnr/douk:2
+sebastianwack/steve:16
+puzzle/okr:1194
+europeana/fulltext-api:134
+virtualidentityag/caritas-rework-onlineBeratung-uploadService:1
+ory-zgate/admin-api:107
+IsyFact/isyfact-standards:596
+hnnfr/spring-security-tuto:3
+chevurup/test:10
+greendev173/Final_HaxaDirect_HJS:1
+mmarchal/BackPotes:6
+hermanurikh/t-project:9
+tejeshchandra/WebGoat-Legacy:5
+inamoriza/EncryptedStorage:5
+hmcts/wa-standalone-task-bpmn:405
+yoyo1025/game-lobby-server:2
+Youneesz/kanbanboard_backend:1
+eclipse-kapua/kapua:3998
+Chia1104/myFirstSpringBootProj:4
+alfredocoj/skeleton-spring-ebean-postgres:8
+nhomble/spring-security-openapi-demo:4
+isaacgarza/saml-example:7
+pillyohae/pillyohae:81
+InaJeong73/AjouFinder:38
+DarrickLZH/JwtDemo:6
+micha-wb/optaplanner-pub:9
+micha-wb/optaplanner-pub:4
+tringuyenFuturify/DemoEureka:3
+Maksym-Gorbunov/api-gateway:4
+pettyAlways/blog-platform:15
+MAYFIFTH99/websocket:4
+apache/camel:16352
+Akashbangera7/NetWork_Structure:7
+ManuelB/everyonecounts-geoserver:15
+heesuKwon/ShowTicket:2
+nguyennghia0479/Mobile_phone_store:3
+EvgeniyMedvedev/SecurityApp:12
+goodgood619/GoodGoodPersonalHome:25
+Zeuzif/google-authentication-spring:4
+framon/task-processor-spring:8
+gokuno1/Bank-App:4
+konopkagrzegorz/recipe-app:10
+Rony0124/BasketBallCommunityPjt:27
+Rony0124/BasketBallCommunityPjt:28
+clemado1/spring_board:33
+DevEderNO/alura-springmvc:33
+clemado1/spring_board:34
+corentinrehault/Simple-Blog:25
+ahadcse/interview-test:6
+laszlo-erdohegyi/hotel-and-restaurant-thesis:13
+taextreme/Webapp-Basic:6
+DimaScientist/CarPartsCatalog:20
+MrVANO/Authorization-microservice:7
+opensrp/opensrp-server-web:1208
+JeongEEE/Board1:31
+GeorgeYzgs/Voting-App:4
+Antonia2019/FIIPractic_Project:5
+New-ReLINK/ReLINK:41
+runikolov01/RecycleRewards:1
+AkshayRor/yourSafeStep:27
+elmastahsin/spring-training:5
+souradeepmajumdar05/grocery-app-microservices-api-daily-essentials:4
+awmGroup/awm-api-server:10
+dummyxiao/springcloud-runway:4
+awmGroup/awm-api-server:12
+awmGroup/awm-api-server:11
+jiangYI12/spring-ouath2:5
+fly2015/handbook:13
+Samadoll/SpringBootTemplate:4
+ft-force/coral-framework:23
+seriouslag/multitenant-db:5
+johnehunt/spring5-intro:57
+roytuts/spring-security:3
+roytuts/spring-security:4
+roytuts/spring-security:5
+roytuts/spring-security:6
+roytuts/spring-security:2
+GuilhemSempere/Mgdb2:62
+Michael-Kochis/java-project-0:9
+Michael-Kochis/java-project-0:8
+tany007/healthplanner:3
+DarrickLZH/SwaggerDemo:6
+lakshay-saini/zuul-gateway:4
+fonimus/ssh-shell-spring-boot:396
+RangaJaladurgam/Pharmassist-API:11
+mauriciogregory/Prova_Final_Esp_BackII:1
+dung-td/Springify_BE:1
+jonasandersen-no/clash-together:6
+boyseos/lastSp5:2
+alanacorreya/Dependency_Test:16
+MarinaRappoport/checkers_server:21
+Michael-Kochis/java-project-1:8
+Michael-Kochis/java-project-1:9
+Mend-JoshN-GHE-SAST/java-sec-code:52
+NashTech-Labs/spring-webflux-reactive-with-mongo:3
+ComplexWJX/springboot_nosql:12
+DaniloAndrade/fj27:23
+power4j/sequence:160
+NashTech-Labs/spring-swagger3-security-example:1
+Opetushallitus/otuva:16
+entirej/rap:17
+RezaNurRochmat13/Spring-Boot-Security-Example:1
+NashTech-Labs/Swagger3-spring-Security-Example:1
+syncfusion/nifi:7
+saasIlDemo/nifi-1.4.0:100
+chitranshmalviya/Vehicle-Renting-Application:14
+valitydev/org-manager:59
+openrewrite/rewrite-spring:625
+kimseho91/goodfor-test:2
+l00pinfinity/api.birdapp:2
+shah-it123/Spring-security:1
+yejee1228/spring5_study1:2
+NashTech-Labs/spring-swagger3-security-application:1
+Dabbeeru/pipeline:18
+mihaiug/ead:35
+mihaiug/ead:34
+yonadev/yona-server:1445
+ureca9/BE_MungGu:47
+hmcts/et-sya-api:1132
+hmcts/probate-orchestrator-service:1105
+spring-projects/spring-security:9278
+hmcts/wa-workflow-api:813
+l00pinfinity/user-backend-api:6
+NashTech-Labs/spring-webflux-reactive-with-mongo:2
+eBay/DASTProxy:26
+skehdnr/dooooouk:2
+micha-wb/optaplanner-pub:6
+fungover/system2024:81
+KouShenhai/KCloud-Platform-IoT:3450
+HongYeseul/hotdeal-be:14
+epislab/tashkent-crawler-spring-ajax:2
+companieshouse/efs-submission-web:140
+sarvex/springside4:126
+hmcts/probate-back-office:2889
+hmcts/nfdiv-ccd-case-migration:166
+Maathru/Backend:72
+RP-StarHub/Back-end:7
+geoserver/geofence:258
+demo-teams/maven-hello-world:28
+GaneshSPatil/gocd:661
+rnfkwoddl12/test:18
+invader237/FitPick-back:17
+hmcts/probate-submit-service:987
+psi-probe/psi-probe:4035
+Learnathon-By-Geeky-Solutions/binarybrain:1
+demo-teams/vulnerability-project:74
+hmcts/pdm-interfaces:373
+chadlwilson/gocd:1028
+tomoguara/jenkins:69
+dreamboy9/practice1:150
+hazelcast-incubator/cascading-prototype:4
+pac4j/pac4j:3175
+pac4j/dropwizard-pac4j-demo:161
+Blaybus-Define/BlayBus-Backend:6
+udacity/nd035-c1-spring-boot-basics-examples:24
+hmcts/adoption-backend:135
+hmcts/adoption-backend:136
+hmcts/adoption-backend:134
+szaqal/KitchenSink:101
+pac4j/spring-security-pac4j:349
+sachinpatkar/DependencyCheck:157
+dtadcox/open-liberty:607
+bogdanluncasu/awakeningServer:72
+3nauk/bbcron-organization-service:150
+kbss-cvut/s-pipes:230
+hmcts/pre-api:832
+grahamwallis/egeria:1717
+grahamwallis/egeria:1706
+grahamwallis/egeria:1710
+grahamwallis/egeria:1708
+awisniew90/open-liberty:571
+woorifisa-service-dev-4th/backend-haruhana:5
+hmcts/darts-api:2300
+udacity/nd035-c1-spring-boot-basics-examples:25
+mirkosertic/Powerstaff:125
+3nauk/test-repo:169
+hmcts/pcq-loader:664
+CUKCatSnap/CUKCATSNAP_Server:19
+rehythmproject/back-end:10
+paul-reiners/super-duper-drive:3
+BeingAnushasan/Microservices-Saathi:4
+norbert15174/SimpleSpringApp:3
+adripenate/Lectio-Backend:6
+RaedBhk/ecomAppKEYCLOAK:2
+SimonOnBoard/course_paraper_2k_1s:14
+slingshot-dev/Buddy:6
+HakanSahan/PressSystemSE4:9
+Prasantakpr88/Spring:5
+Prasantakpr88/Spring:6
+Josh-rms/spring-blog:3
+rbenyoussef/chutney:56
+JavaZakariae/Spring5Certification:29
+ThalesErnane/casadocodigo:2
+apereo/java-cas-client:971
+Zech-Hein/open-liberty:714
+Zech-Hein/open-liberty:711
+wilx/DependencyCheck:105
+PSMRI/Helpline104-API:35
+J-Dudek/tp-reseau-social:40
+LucasTruce/sports-equipment-store:4
+BrahimAfa/ecoSpringBoot:3
+Silvern29/OTCBE:8
+sagargrover152/RestAPI:4
+patryktk/spring_logo:4
+dmitryb-ov/SwingSem:14
+wangby0114/springCloud202002:7
+wangby0114/springCloud202002:8
+galariaquartet/Group-Project:12
+bjudele/finalProject-SDA4:3
+SimonOnBoard/contextOnInterfaces:14
+zyxfei/demo:4
+lucasmoyano/napptilus:5
+Leonardo-FrancaL/API-Search-Price:6
+companieshouse/company-accounts.web.ch.gov.uk:649
+ngvenkatesh9/mavendemo:4
+Kukine/b2matchApp:4
+Vvoox/BankPlatform_Spring:2
+companieshouse/healthcheck-example:3
+linmingren/JavaHash:4
+shamik123/Micro_service_AuthServer:3
+benrybin/lfg-new:3
+emadjoha/hospital:11
+danny9mvp/Yo-Reporto-Server:3
+nmathews-capco/SpringRestExample:15
+HBPMedical/Enabling_Services:3
+semma19989/lesson56lab:3
+fandanping/nacos-simple-demo:4
+Martzu/SpringDay2:3
+vasanthsenthilkumar/Newloginpages:4
+utscgeorge/privilege:3
+solankiashwani/Training:14
+Daralisdan/ssm_project:6
+Daralisdan/ssm_project:7
+Daralisdan/ssm_project:8
+kutluahmet/webflux:4
+ZuLwiK/Driver:3
+SwepID/MusicProject:10
+ttiusanen/jyu-ohjelmointityo-backend:4
+darknight1996/time_tracker_app_server:2
+Apsadikov/JavaLab2019:40
+neverfoggy/spring-boot-jwt:7
+deetchiga/Java:3
+knockout1/authenticator:3
+sohanbappy/API-SpringBoot-JWT:4
+Apsadikov/JavaLab2019:39
+Apsadikov/JavaLab2019:38
+onelazyugy/vault-with-spring-security:2
+RenYongliang/resource-center:4
+Apsadikov/JavaLab2019:37
+sachinola797/CaseStudy:6
+seulpi/TIL:49
+seulpi/TIL:50
+seulpi/TIL:51
+fahmich/G_fiche-de-paie-backend:5
+zrk333/statistical-service:4
+Manny27nyc/ORCID-Source:330
+Hack23/cia:6824
+steven1046/open-liberty:663
+neodevelop/examplesspring:47
+TanskiV/ProPets-Accounting:5
+deltafixer/vehicle-diary-api:15
+Sandesh-Maurya/expensetracker:3
+kparate446/Fundoo-BackEnd:4
+sauhards/sauhard:7
+sauhards/sauhard:8
+abuuer/hotel-management:4
+Penny-Wiser/penny-wiser-ms-api-gateway:2
+YohannaToro/task-planner-back:2
+marlo2222/Passei-usuario:6
+leejinseok/spring-demo-rest-api:2
+elzaujk/TODOAPP:3
+xugj-gits/SpringBoot_Activiti7_API:3
+eofek/sanepid-api:3
+ngvenkatesh8/maven_dependency_test:16
+Cowhitewhite/elegant:6
+sulistionoadi/common-dao-jdbc:5
+nazarevitsch/Spring:4
+vtl2004/rest_js_client_server:4
+hoangytm/LogIn-LogOut:4
+tounans/easyiot:8
+githubzlz/oauth-center:4
+krzysiekruczaj/users:4
+elmartinno/dplmvk:5
+teksah/work-time-report-app:3
+SandeepPatel2121/spring-boot-auth1.0:4
+ZahidNaeem/PointOfSaleWS:4
+SamatPro/wellness:4
+SuprasannaBhaumik/registercommand:3
+NELSON1994/LogIn-Register:3
+krystsolo/toolroom:3
+sainik-developer/spring-boot-security:17
+jeeu1901/ChiliShop_School:3
+ShapeSlate/ShapeSlateDeploy:3
+SOPT-all/35-APPJAM-SERVER-JEOLLOGA:6
+XANALI/asiapharm:74
+kajuszzubrecki/VmLibrary:3
+bijelic99/Projekat-OSA-2019-2020:4
+budget-manager/budget-manager-server:17
+KarolPawlukowicz/java-spring-gra:3
+nalinv123/E-krishi-microservices:4
+darm145/task-planner-back:2
+AlexLeko/MVP_SpringSecurity_JWT:2
+Razvan1990/OnlineBiding:3
+KostasAleiferis/MyFirstSpringBootProject:3
+Lirveez/geps:3
+imaksic1/real:3
+raorizwaniftikhar/Bookstore-E-Commerce:3
+AdrianPerera/Boarding:3
+acidburn0zzz/ORCID-Source:41
+riomunas/update-password:5
+viruss112/Hotels-Application:4
+slachiewicz/steve:29
+eos-streamus/server:37
+pavankumar532425/ecommerce:3
+siemenHerremans/6Dist_Webserver:4
+NikiRoss/trading:6
+grazianiborcai/Agenda_WS:11
+DimitrisTryf/AirPng:4
+sow91/authenticationService:3
+haythemjebel/ServeurGestionStockProduits:4
+oleksii-bratenkov/public-trello:4
+karolsidor11/UserAuth:7
+aiminglow/gitblog:6
+isereb/sensorms:6
+Venustar-ZL/GP:8
+jsms91/HK-Final-Project:22
+jsms91/HK-Final-Project:23
+MAN-ZONE-48/General-Configuration:7
+NeferGGarcia/wrongsecrets:19
+Sandesh-Maurya/UserExpenseTracker:3
+enesusta/spring-security-starter:2
+Khagmar/cinema_project:5
+AndreKrebs/java-bd:14
+SchegolevaNV/CurrencyConverter:12
+celsojuniordev/assistencia:4
+LucasSantiag/springboot-foodtruck-api:4
+andonealexandru/dpit-parking-app:6
+hnjaman/hotchpot:3
+igorkondrat/Backend-Spring-LensFlats:14
+GitVip8/be-parent:3
+yiwenluohx/lyw-oauth2:13
+chiragAcuver/identity:4
+Western-OWL/sakai:76
+mk258713262/pm:6
+raydelinho/DMSDemo:4
+JevPrentice/yet-another-spring-boot-docker-app:3
+hieunv2/springBoot_demo:3
+karolinaglab/MenuGenerator:5
+Jovan42/security:5
+elmartinno/tester:5
+zuochuangxiaocao/timeworker:11
+kparate446/UserManagement:4
+vigen-amirkhanyan/userator:3
+Shadow3191/car-fleet:4
+SimonOnBoard/-hatshoooop:14
+matthewadedayo/account:4
+agampanglah/monggo-backend-springboot:4
+jjalonen/inquiry:3
+martin-angelov1992/my-eshop:3
+wangpin1997/mall-product:7
+amiyadav/hackathon-neutrino:3
+mrAnujkumarpal/visitor_entryAndVerification:4
+Novelgeek/NovelGeek-Server:31
+omuga/Spring-JWT:3
+prateekparallel/ssl-feign-client-example:4
+Shamistanh/Bank_Project:4
+jinioh88/boot_study:4
+zhaoheting/GrandWorldM:4
+gimazovbulat/chat-server:8
+gurguAlois/Auction:3
+Lol-sad/projectdemo1:2
+DimitrisTryf/VotersProject:3
+Aidar1702/SHAIDULLOV_JAVA_120:4
+y734451909/nacosBase:4
+onewelcome/spring-security-saml:32
+shivani-cs/BlueSprint-Banking-Application:6
+neethumurali994/SpringBootOnlineFlightTicketProject:4
+JoaoVFAraujo/UniforSpotifyBackend:3
+mentor-us/backend:218
+JK-Sebastiao/MySocialNetwork:4
+Iyad87/company-event:6
+istiFlow/pet-clinic-home-project:4
+NikolchovaElena/javabrains-microservices:4
+SimonOnBoard/ServletHomework:14
+h3xxit/COVID-19-Finder:3
+KrzysztofPlusko/WypozyczalniaSamochod-w:39
+edgardovittoria/learnSpringBoot:3
+DubokV98/IbaProjectBack:3
+TeamYouthChina/courier:7
+ppariya/time-management-tool:4
+ChoeYeongjae/cardashboard:3

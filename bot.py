@@ -24,7 +24,9 @@ chat_history.append(SystemMessage(content=system2))
 def send(new_message):
     new_message = f'{prompt_content}\n-- PR CONTENT START --\n{new_message}'
     chat_history.append(HumanMessage(content=new_message))  # Add user message
-    result = model.invoke(chat_history)
-    chat_history.pop()
-    response = result.content
-    return response
+    try:
+        result = model.invoke(chat_history)
+        response = result.content
+        return response
+    finally:
+        chat_history.pop()

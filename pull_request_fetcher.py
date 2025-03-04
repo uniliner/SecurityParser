@@ -34,8 +34,8 @@ def __fetch(context, endpoint):
         full_url = endpoint
     else:
         full_url = f'{base}{context.repo_owner}/{context.repo_name}/{endpoint}'
-        if endpoint.startswith('pulls'):
-            full_url += '?state=all'
+        # if endpoint.startswith('pulls'):
+        #     full_url += '?state=all'
 
     rel = 'next'
     responseJson = []
@@ -113,7 +113,7 @@ def __fetch_pr(repo_owner, repo_name, pr_number):
 
     cached_prs = []
     if os.path.exists(f'cache/{repo_owner}_{repo_name}_prs.json'):
-        with open(f'cache/{repo_owner}_{repo_name}_prs.json', "r") as file:
+        with open(f'cache/{repo_owner}_{repo_name}_prs.json', "r", encoding='utf-8') as file:
             cached_prs = json.load(file)
     
     cached_prs.append(pr_obj)

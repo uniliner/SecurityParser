@@ -9,7 +9,8 @@ Nadav
 
 Ron
 -----
-- fix file_patch format to be a proper git diff file
+- get demo pr's from new githubSearch script and create a prompt to make a synthetic demo from it
+v fix file_patch format to be a proper git diff file
 - think of possible examples to search for challanging the llm
 v fix bug when commit has 0 changes
 v easy way to run analysis on PR
